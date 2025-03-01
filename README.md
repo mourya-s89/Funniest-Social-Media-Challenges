@@ -28,6 +28,7 @@ This project curates and displays a collection of the funniest and most viral so
 
 **Authentication (Optional):**
 - Firebase/Auth0
+jjnbedfjnadhj c 
 
 **Hosting & Deployment:**
 - Frontend: Vercel/Netlify
